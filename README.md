@@ -17,7 +17,7 @@ Este es mi portafolio personal como desarrollador web full stack junior.
 ## Deploy
 
 Este sitio está disponible en:  
-👉 [https://fernando749.github.io/portafolio](https://fernando749.github.io/portafolio)
+👉 [https://fernando-749.github.io/portafolio](https://fernando-749.github.io/portafolio)
 
 ---
 
