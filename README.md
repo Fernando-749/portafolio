@@ -1,2 +1,25 @@
-# portafolio
-Portafolio web personal de Fernando Martínez Conesa – desarrollador web full stack junior. Desarrollado con HTML, CSS, y JavaScript.
+# Portafolio Web – Fernando Martínez Conesa
+
+Este es mi portafolio personal como desarrollador web full stack junior.
+
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3 (verde como color base)
+- JavaScript
+
+## Contenido
+
+- Sección de presentación
+- Proyectos destacados (actualmente en desarrollo)
+- Información de contacto
+
+## Deploy
+
+Este sitio está disponible en:  
+👉 [https://fernando749.github.io/portafolio](https://fernando749.github.io/portafolio)
+
+---
+
+Desarrollado con pasión por la tecnología y el aprendizaje constante.
+
