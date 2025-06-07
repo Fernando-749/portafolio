@@ -5,13 +5,13 @@ Este es mi portafolio personal como desarrollador web full stack junior.
 ## Tecnologías utilizadas
 
 - HTML5
-- CSS3 (verde como color base)
+- CSS3
 - JavaScript
 
 ## Contenido
 
 - Sección de presentación
-- Proyectos destacados (actualmente en desarrollo)
+- Proyectos destacados
 - Información de contacto
 
 ## Deploy
